@@ -43,6 +43,8 @@ Multiple execution contexts ("realms")
 
 The `constructor` property
 
+> In theory, .constructor could be useful to make generic functions which are capable of returning a new instance of whatever object you pass in.
+
 > The `.of()` method is a factory that returns a new instance of the data type containing whatever you pass into `.of()`.
 
 ```js
